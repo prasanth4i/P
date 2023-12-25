@@ -7,7 +7,7 @@ const settings = {
 
 //SEO Related settings
 const seo = {
-  title: "Prasanth's Portfolio",
+  title: "Prasanth's Portfolio ",
   description:
     "Passionate digital marketer skilled in leveraging data-driven strategies to drive online growth and maximize brand visibility",
   og: {
