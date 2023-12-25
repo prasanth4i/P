@@ -32,20 +32,13 @@ const greeting = {
 
 const socialMediaLinks = [
   /* Your Social Media Link */
-  // github: "https://github.com/ashutosh1919",
-  // linkedin: "https://www.linkedin.com/in/ashutosh-hathidara-88710b138/",
-  // gmail: "ashutoshhathidara98@gmail.com",
-  // gitlab: "https://gitlab.com/ashutoshhathidara98",
-  // facebook: "https://www.facebook.com/laymanbrother.19/",
-  // twitter: "https://twitter.com/ashutosh_1919",
-  // instagram: "https://www.instagram.com/layman_brother/"
+  // linkedin: "https://www.linkedin.com/in/prasanth4i/",
+  // gmail: "prasanthmnp111@outlook.com",
+  // facebook: "https://www.facebook.com/prasanthsocial",
+  // twitter: "https://twitter.com/prasanthsocial",
+  // instagram: "https://www.instagram.com/prasanth4i/"
 
-  {
-    name: "Github",
-    link: "https://github.com/ashutosh1919",
-    fontAwesomeIcon: "fa-github", // Reference https://fontawesome.com/icons/github?style=brands
-    backgroundColor: "#181717", // Reference https://simpleicons.org/?q=github
-  },
+  
   {
     name: "LinkedIn",
     link: "https://www.linkedin.com/in/ashutosh1919/",
