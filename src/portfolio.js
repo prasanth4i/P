@@ -7,27 +7,27 @@ const settings = {
 
 //SEO Related settings
 const seo = {
-  title: "Ashutosh's Portfolio",
+  title: "Prasanth's Portfolio",
   description:
-    "A passionate individual who always thrives to work on end to end products which develop sustainable and scalable social and technical systems to create impact.",
+    "Passionate digital marketer skilled in leveraging data-driven strategies to drive online growth and maximize brand visibility",
   og: {
-    title: "Ashutosh Hathidara Portfolio",
+    title: "Prasantha Portfolio",
     type: "website",
-    url: "http://ashutoshhathidara.com/",
+    url: "https://github.com/prasanth4i/P/",
   },
 };
 
 //Home Page
 const greeting = {
-  title: "Ashutosh Hathidara",
-  logo_name: "AshutoshHathidara",
-  nickname: "layman_brother",
+  title: "Prasanth",
+  logo_name: "Prasanth",
+  nickname: "pp",
   subTitle:
-    "A passionate individual who always thrives to work on end to end products which develop sustainable and scalable social and technical systems to create impact.",
+    "Passionate digital marketer skilled in leveraging data-driven strategies to drive online growth and maximize brand visibility.",
   resumeLink:
-    "https://drive.google.com/file/d/1FL_wydnPF2SWCdw2goYAgZ1KKBx8TpcD/view?usp=sharing",
+    "#",
   portfolio_repository: "https://github.com/ashutosh1919/masterPortfolio",
-  githubProfile: "https://github.com/ashutosh1919",
+  githubProfile: "https://github.com/",
 };
 
 const socialMediaLinks = [
